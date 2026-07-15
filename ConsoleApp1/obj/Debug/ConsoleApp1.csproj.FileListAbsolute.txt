@@ -1,0 +1,494 @@
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\Emgu.CV.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\MathNet.Numerics.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Win32.Registry.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Asio.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Core.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Midi.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Wasapi.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.WinForms.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.WinMM.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.AccessControl.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.Principal.Windows.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Json.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\Emgu.CV.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\MathNet.Numerics.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Win32.Registry.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Asio.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Core.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Midi.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Wasapi.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.WinForms.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.WinMM.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.AccessControl.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.Principal.Windows.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Json.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.xml
+D:\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleA.CB28C8CC.Up2Date
+D:\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.WindowsForms.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.Wpf.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.Wpf.Shared.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.WindowsForms.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.Wpf.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.Wpf.Shared.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.Imaging.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.Math.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.Imaging.xml
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.Math.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.Imaging.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.Math.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Emgu.CV.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\MathNet.Numerics.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Asio.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Core.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Midi.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Wasapi.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.WinForms.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.WinMM.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.Wpf.Shared.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Json.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.Imaging.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.Math.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Emgu.CV.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\MathNet.Numerics.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Asio.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Core.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Midi.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Wasapi.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.WinForms.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.WinMM.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.Wpf.Shared.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Json.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleA.CB28C8CC.Up2Date
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Charting.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\PDFsharp.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Quality.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.System.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Drawing.Common.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Resources.Extensions.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Charting.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Quality.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.System.pdb
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.System.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Drawing.Common.pdb
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Drawing.Common.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Resources.Extensions.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\de\PDFsharp.resources.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.barcodes.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.commons.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.forms.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.html2pdf.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.io.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.kernel.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.layout.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.pdfa.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.pdfua.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.sign.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.styledxmlparser.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.svg.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.barcodes.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.commons.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.forms.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.html2pdf.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.io.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.kernel.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.layout.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.pdfa.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.pdfua.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.sign.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.styledxmlparser.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\itext.svg.xml
+C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.Imaging.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.Math.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Emgu.CV.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.barcodes.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.bouncy-castle-connector.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.commons.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.forms.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.html2pdf.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.io.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.kernel.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.layout.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.pdfa.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.pdfua.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.sign.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.styledxmlparser.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.svg.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\MathNet.Numerics.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Options.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Win32.Registry.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Asio.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Core.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Midi.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Wasapi.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.WinForms.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.WinMM.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.WindowsForms.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.Wpf.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.Wpf.Shared.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Charting.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\PDFsharp.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Quality.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Snippets.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.System.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.WPFonts.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Drawing.Common.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Resources.Extensions.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.AccessControl.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.Principal.Windows.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Json.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.Imaging.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.Math.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Emgu.CV.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.barcodes.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.bouncy-castle-connector.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.commons.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.forms.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.html2pdf.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.io.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.kernel.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.layout.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.pdfa.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.pdfua.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.sign.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.styledxmlparser.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\itext.svg.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\MathNet.Numerics.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Options.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Win32.Registry.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Asio.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Core.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Midi.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Wasapi.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.WinForms.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.WinMM.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.WindowsForms.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.Wpf.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.Wpf.Shared.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Charting.pdb
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Charting.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Quality.pdb
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Quality.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Snippets.pdb
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.System.pdb
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.System.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.WPFonts.pdb
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.WPFonts.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Drawing.Common.pdb
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Drawing.Common.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Resources.Extensions.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.AccessControl.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.Principal.Windows.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Json.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\de\PDFsharp.resources.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleA.CB28C8CC.Up2Date
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Accord.dll.config
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Accord.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Accord.Imaging.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Accord.Math.Core.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Accord.Math.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Accord.Statistics.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Accord.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Accord.Imaging.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Accord.Math.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Accord.Math.Core.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Accord.Statistics.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Twilio.dll
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\IT\2023-2024 (2)\Multimedia\ConsoleApp1\ConsoleApp1\bin\Debug\Twilio.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Accord.dll.config
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Accord.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Accord.Imaging.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Accord.Math.Core.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Accord.Math.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Accord.Statistics.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.Imaging.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.Math.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Emgu.CV.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.barcodes.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.commons.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.forms.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.html2pdf.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.io.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.kernel.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.layout.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.pdfa.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.pdfua.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.sign.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.styledxmlparser.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.svg.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\MathNet.Numerics.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Asio.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Core.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Midi.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Wasapi.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.WinForms.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.WinMM.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.Wpf.Shared.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Charting.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\PDFsharp.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Quality.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.System.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Drawing.Common.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Resources.Extensions.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Json.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Twilio.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Accord.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Accord.Imaging.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Accord.Math.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Accord.Math.Core.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Accord.Statistics.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.Imaging.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\AForge.Math.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Emgu.CV.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.barcodes.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.commons.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.forms.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.html2pdf.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.io.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.kernel.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.layout.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.pdfa.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.pdfua.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.sign.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.styledxmlparser.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\itext.svg.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\MathNet.Numerics.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Asio.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Core.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Midi.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.Wasapi.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.WinForms.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\NAudio.WinMM.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\OxyPlot.Wpf.Shared.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Charting.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Quality.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.System.pdb
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.System.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Drawing.Common.pdb
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Drawing.Common.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Resources.Extensions.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Json.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Twilio.xml
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\de\PDFsharp.resources.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleA.CB28C8CC.Up2Date
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ASUS\Desktop\مشروع multimedia\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
